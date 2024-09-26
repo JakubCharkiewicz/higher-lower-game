@@ -23,4 +23,9 @@ This is a command-line game where you compare two celebrities and guess who has 
     Requirements
     Python 3.x
     art package for displaying logos and visual separators.
-    Install the required package:
+## Install the required package:
+    pip install art
+## Running the Game
+    Run the game using the command:
+
+    -python higher-lower.py
